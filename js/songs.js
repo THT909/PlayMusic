@@ -35,10 +35,10 @@ export const songs = [{
         img: './assets/img/6.jpg',
     },
     {
-        name: 'Tình Đã Đây Một Tim',
+        
+        name: 'Tình Đã Đầy Một Tim',
         singer: 'Huyền Tâm Môn',
-        path: './assets/mp3/Tình Đã Đây Môt Tim (GUANG Remix).mp3',
+        path: './assets/mp3/Tình Đã Đầy Môt (GUANG Remix).mp3',
         img: './assets/img/7.jpg',
     }
-
 ]
